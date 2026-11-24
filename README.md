@@ -41,24 +41,22 @@ Key Features:
 3.Tracks products from harvesting to transportation, storage and final delivery.
 
 4. Direct Farmer-to-Consumer Marketplace: Connects farmers directly with consumers, retailers, wholesalers and supermarkets.
-
+   
 5.Supports transparent transactions and payment tracking.
 
 6. Allows consumers to scan QR codes and view available product information.
-
 
 How It Addresses the Problem:
 
 1.Connects farmers directly with buyers, reducing unnecessary intermediaries.
 
 2. Creates opportunities to reduce additional costs caused by multiple intermediaries.
-
+   
 3. Allows consumers to check available information about the products they purchase.
-
+   
 4.Provides farmers with market price information and demand trends.
 
 5. Monitors transportation, storage and distribution activities.
-
 
 Innovation and Uniqueness
 
@@ -103,7 +101,8 @@ Hardware Requirements
 
 6.GPS-enabled smartphone : For recording farm and delivery locations.
 
-![Alt text](Desktop/WhatsApp Image 2026-11-24 at 7.55.37 PM.jpeg)
+<img width="1080" height="2098" alt="WhatsApp Image 2026-11-24 at 7 55 37 PM" src="https://github.com/user-attachments/assets/82694826-eb37-48d9-9ffe-f8c905523671" />
+
 
 ## Feasibility and Viability
 
@@ -133,8 +132,6 @@ Hardware Requirements
 
 *Use low-cost QR codes and open-source software to reduce development expenses.
 
-
-
 ## Impact and Benefits
 
 1. Potential Impact on the Target Audience
@@ -158,7 +155,6 @@ Hardware Requirements
 * Creates awareness about food safety and product quality.
 
 * Supports small-scale and rural farmers.
-
 
 3.Economic Benefits
 
